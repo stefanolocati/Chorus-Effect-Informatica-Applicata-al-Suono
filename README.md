@@ -9,7 +9,7 @@ Il Chorus che ho deciso di creare, prevede l’utilizzo di 8 sinusoidi che vanno
 
 Mediante l’utilizzo di diversi slider è possibile andare a modificare il valore degli attributi. In questo modo si possono ottenere diverse sfumature di suono. L’utente può quindi variare l’effetto del Chorus come meglio preferisce.
 
-Struttura circuitale di un effetto Chorus:
+### Struttura circuitale di un effetto Chorus:
 
 ![chorus_diagram1](https://user-images.githubusercontent.com/59931596/193449524-8071cbdc-3989-46fc-8d10-b2f4e79914d6.png)
 
