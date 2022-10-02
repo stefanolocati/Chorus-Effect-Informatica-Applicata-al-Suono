@@ -12,3 +12,8 @@ Mediante l’utilizzo di diversi slider è possibile andare a modificare il valo
 Struttura circuitale di un effetto Chorus:
 
 ![chorus_diagram1](https://user-images.githubusercontent.com/59931596/193449524-8071cbdc-3989-46fc-8d10-b2f4e79914d6.png)
+
+
+### Linguaggi Utilizzati
+
+Python
